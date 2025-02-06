@@ -11,7 +11,7 @@ A smooth and dynamic **camera orbit system** for Unity that rotates around a tar
 - ✅ **Easily record the game view to capture orbit motion**  
 
 ## 📹 Demo  
-[*(Attach your recorded gameplay video or a GIF showcasing the orbit motion)* ](https://github.com/user-attachments/assets/87c6b8dc-7a9b-4372-bd40-4b3b446fba9c) 
+[https://github.com/user-attachments/assets/a151ded9-3eeb-40c2-bd97-7b3457657065](https://github.com/user-attachments/assets/a151ded9-3eeb-40c2-bd97-7b3457657065)
 
 ## 🔧 How to Use  
 1. Attach the `CameraOrbit` script to your camera.  
